@@ -10,10 +10,10 @@
 	
 	$now = time();
 
-	$wod1ReleaseTime = mktime( 9, 15, 0, 6, 22, 2013);
+	$wod1ReleaseTime = mktime(  9, 15, 0, 6, 22, 2013);
 	$wod2ReleaseTime = mktime( 11, 15, 0, 6, 22, 2013);
-	$wod3ReleaseTime = mktime( 13, 25, 0, 6, 22, 2013);
-	$wod4ReleaseTime = mktime( 15, 0, 0, 6, 22, 2013);
+	$wod3ReleaseTime = mktime( 13, 30, 0, 6, 22, 2013);
+	$wod4ReleaseTime = mktime( 15, 10, 0, 6, 22, 2013);
 	$wod5ReleaseTime = mktime( 17, 30, 0, 6, 22, 2013);
 ?>
 <!DOCTYPE html>
@@ -113,7 +113,7 @@
                     </p>
                     <h4>Person 2: mini – Cindy</h4>
                     <p>
-                        5 runder<br />
+                        5 runder:<br />
                         5 Pullups<br />
                         10 Handrelease Pushups<br />
                         15 Squats
@@ -179,7 +179,7 @@
 ?>
                 </div>
                 <div data-role="collapsible">
-                    <h3>WOD 5 - A kind of filthy</h3>
+                    <h3>WOD 5 - A kind of filthy (Do not drop the baby)</h3>
 <?php
 	if( $override || $now >= $wod5ReleaseTime )
 	{
