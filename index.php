@@ -106,9 +106,9 @@
                     <h4>Person 1: mini – King Kong</h4>
                     <p>
                         3 runder:<br />
-                        1 DL 150/100 kg<br />
+                        1 Deadlift<br />
                         2 Muscle Ups<br />
-                        3 Squat cleans 90/60 kg<br />
+                        3 Squat cleans<br />
                         4 HSPU
                     </p>
                     <h4>Person 2: mini – Cindy</h4>
@@ -149,21 +149,21 @@
                     </p>
                     <p>
                         En af gangen, udfører hver person:<br />
-                        12 Power Clean (70/60/40 kg)
+                        12 Power Clean
                     </p>
                     <p>
                         150 KB swing total
                     </p>
                     <p>
                         En af gangen, udfører hver person:<br />
-                        9 OH Squat (70/60/40 kg)
+                        9 OH Squat
                     </p>
                     <p>
                         150 goblet squats total
                     </p>
                     <p>
                         En af gangen, udfører hver person:<br />
-                        6 Shoulder to overhead (70/60/40 kg)
+                        6 Shoulder to overhead
                     </p>
                     <p>
                         150 KB snatch total
@@ -189,12 +189,12 @@
                         50 Pull-ups<br />
                         50 Kettlebell swings, 1.5 pood<br />
                         50 Toes to Bar<br />
-                        50 Shoulder to Overhead, 50 kg<br />
-                        50 Backsquat, 50 kg<br />
+                        50 Shoulder to Overhead<br />
+                        50 Backsquat<br />
                         50 Wall ball shots, 20 pound ball<br />
                         50 Burpees (over the bar)<br />
                         50 Double unders<br />
-                        50 steps walking lunges, 50 kg                   
+                        50 steps walking lunges
                     </p>
 <?php
 	}
