@@ -19,7 +19,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>BOXCUP INVITATIONAL - Vest</title>
+    <title>BOXCUP INVITATIONAL - Finale</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="Content/jquery.mobile-1.3.1.min.css" />
     <script src="Scripts/jquery-1.6.4.min.js"></script>
@@ -29,7 +29,7 @@
     <div data-role="page" data-theme="a">
         <div data-role="header">
             <h2>BOXCUP</h2>
-            <h2>Vest</h2>
+            <h2>Finale</h2>
         </div>
         <div data-role="content" data-theme="a">
             <div data-role="collapsible-set" data-inset="false">
